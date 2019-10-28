@@ -3,5 +3,10 @@
 # Camera Specs
  ## IPhone 11
 * Camera 1 12 Mexapixels (WIDE)
-* Camera 2 Mexapixels (TELEPHOTO)
-* Camera 3 Mexapixels (ULTRA WIDE)
+* Camera 2 12 Mexapixels (TELEPHOTO)
+* Camera 3 12 Mexapixels (ULTRA WIDE)
+
+## Samsung Note10 +
+*
+*
+*
