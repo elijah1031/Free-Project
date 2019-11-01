@@ -7,6 +7,6 @@
 * Camera 3 12 Mexapixels (ULTRA WIDE)
 
 ## Samsung Note10 +
-*
-*
-*
+* 16 Megapixel (ULTRA WIDE)
+* 12 Megapixel (TELEPHOTO)
+* 12 Megapixel (WIDE)
